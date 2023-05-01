@@ -23,7 +23,6 @@ export default defineConfig({
     },
     lastUpdatedText: '更新于',
     nav: [
-      { text: '首页', link: '/' },
       { text: '读书', link: '/readings/' },
       { text: '学极客时间', link: '/geektimes/' },
       { text: '看文章', link: '/articles/'},
@@ -35,8 +34,8 @@ export default defineConfig({
           text: '读书',
           collapsed: false,
           items: [
-            { text: '2 -《Web全栈工程师的自我修养》', link: '/readings/books/1-50/2.md' },
-            { text: '1 -《早晨从中午开始》', link: '/readings/books/1-50/1.md' },
+            { text: '2 -《早晨从中午开始》', link: '/readings/books/1-50/2.md' },
+            { text: '1 -《Web全栈工程师的自我修养》', link: '/readings/books/1-50/1.md' },
           ]
         }
       ],
