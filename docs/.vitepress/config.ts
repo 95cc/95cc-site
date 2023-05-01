@@ -10,6 +10,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: '95cc',
+    search: {
+      provider: 'local'
+    },
     outline: {
       level: 'deep',
       label: ''
