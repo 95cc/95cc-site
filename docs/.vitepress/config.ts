@@ -24,10 +24,10 @@ export default defineConfig({
     },
     lastUpdatedText: '更新于',
     nav: [
-      { text: '读书', link: '/readings/' },
-      { text: '学极客时间', link: '/geektimes/' },
-      { text: '看文章', link: '/articles/'},
-      { text: '写blog', link: '/blogs/'},
+      { text: '读书', link: '/readings/' , activeMatch: '/readings'},
+      { text: '学极客时间', link: '/geektimes/', activeMatch: '/geektimes' },
+      { text: '看文章', link: '/articles/', activeMatch: '/articles'},
+      { text: '写blog', link: '/blogs/', activeMatch: '/blogs'},
     ],
     sidebar: {
       '/readings/': [
