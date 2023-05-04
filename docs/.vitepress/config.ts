@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import type { DefaultTheme } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -49,7 +50,8 @@ export default defineConfig({
             { text: '1 -《如何成为学习高手》', link: '/geektimes/contents/1.md'}
           ]
         }
-      ]
+      ],
+      '/blogs': sidebarBlogs()
     },
 
     socialLinks: [
@@ -57,3 +59,9 @@ export default defineConfig({
     ]
   }
 })
+
+function sidebarBlogs() : DefaultTheme.SidebarItem[] {
+  return [
+    { text: 'HTML学习', link: '/blogs/contents/1-html-study.md'}
+  ]
+}
