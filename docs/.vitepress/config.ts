@@ -62,6 +62,7 @@ export default defineConfig({
 
 function sidebarBlogs() : DefaultTheme.SidebarItem[] {
   return [
-    { text: 'HTML学习', link: '/blogs/contents/1-html-study.md'}
+    { text: 'HTML面试总结', link: '/blogs/contents/2-html-interview.md'},
+    { text: 'HTML学习', link: '/blogs/contents/1-html-study.md'},
   ]
 }
