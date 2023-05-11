@@ -13,6 +13,10 @@
 [参考文章：从输入URL到页面展示发生了什么？](https://blog.csdn.net/m0_59140023/article/details/125356950)
 
 ### 2. 浏览器是如何渲染页面的？
+参考：
+* [一文搞懂-浏览器渲染原理](https://zhuanlan.zhihu.com/p/585065343)
+* [极客时间 - 浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601?tab=catalog)
+
 ### 3. 介绍一下对浏览器内核的理解？及浏览器的内核有哪些？
 ### 4. 刷新页面，一次 JS 请求一般情况下有哪些地方会有缓存处理？
 

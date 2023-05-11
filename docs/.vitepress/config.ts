@@ -46,6 +46,8 @@ export default defineConfig({
           text: '学极客时间',
           collapsed: false,
           items: [
+            { text: '4 -《浏览器工作原理与实践》', link: '/geektimes/contents/4.md'},
+            { text: '3 -《重学前端》', link: '/geektimes/contents/3.md'},
             { text: '2 -《乔新亮的 CTO 成长复盘》', link: '/geektimes/contents/2.md'},
             { text: '1 -《如何成为学习高手》', link: '/geektimes/contents/1.md'}
           ]
