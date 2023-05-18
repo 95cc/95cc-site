@@ -2,18 +2,12 @@
 
 ## 题目汇总
 ### 1.从键入url到页面显示都发生了什么事情?
-```
-1. 键入网址，回车；
-2. 如果是域名，从DNS服务器获取对应的IP地址；不是域名，直接到3；
-3. 浏览器用TCP的3次握手与服务器建立连接；
-4. 浏览器向服务器发送http请求（拼好的报文）；
-5. 服务器响应请求，将响应报文发送给浏览器；
-6. 浏览器拿到数据后，解析html源文件，渲染页面；
-```
-[参考文章：从输入URL到页面展示发生了什么？](https://blog.csdn.net/m0_59140023/article/details/125356950)
+* [从输入URL到页面展示发生了什么？](https://blog.csdn.net/m0_59140023/article/details/125356950)
+* [极客时间 - 04 | 导航流程：从输入URL到页面展示，这中间发生了什么？](https://time.geekbang.org/column/article/117637)
+* [极客时间 - 05 | 渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://time.geekbang.org/column/article/118205)
+* [极客时间 - 06 | 渲染流程（下）：HTML、CSS和JavaScript，是如何变成页面的？](https://time.geekbang.org/column/article/118826)
 
 ### 2. 浏览器是如何渲染页面的？
-参考：
 * [一文搞懂-浏览器渲染原理](https://zhuanlan.zhihu.com/p/585065343)
 * [极客时间 - 浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601?tab=catalog)
 
