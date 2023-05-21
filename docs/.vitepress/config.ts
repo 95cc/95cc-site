@@ -37,7 +37,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             // { text: '2 -《早晨从中午开始》', link: '/readings/books/1-50/2.md' },
-            { text: '1 -《Web全栈工程师的自我修养》', link: '/readings/books/1-50/1.md' },
+            // { text: '1 -《Web全栈工程师的自我修养》', link: '/readings/books/1-50/1.md' },
           ]
         }
       ],
@@ -67,4 +67,9 @@ function sidebarBlogs() : DefaultTheme.SidebarItem[] {
     { text: 'HTML面试总结', link: '/blogs/contents/2-html-interview.md'},
     { text: 'HTML学习', link: '/blogs/contents/1-html-study.md'},
   ]
+}
+
+function sidebarReadings() : DefaultTheme.SidebarItem[] {
+  
+  return []
 }

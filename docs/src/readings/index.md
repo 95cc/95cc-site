@@ -1,10 +1,12 @@
 # 阅读
 
 ### 读过
-1. [《Web全栈工程师的自我修养》](./books/1-50/1.md)
+1. [《Web全栈工程师的自我修养》](./books/1-100/1-Web%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.md)
+2. 《早晨从中午开始》
+3. [《Head First HTML 与 CSS》](./books/1-100/3-Head%20First%20HTML%20%E4%B8%8E%20CSS.md)
 
 ### 进行中
-1. 《早晨从中午开始》doing
+1. 《Head First HTML 与 CSS》 doing
 
 ### 未来可能会读
 ::: details

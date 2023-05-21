@@ -54,4 +54,6 @@ body元素，用于承载网页的主体内容。
 ### 学习资料推荐
 * [网道 HTML教程](https://wangdoc.com/html/)
 * [MDN HTML教程](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+* [Web 前端开发者学习路线图](https://developer.mozilla.org/zh-CN/docs/Learn/Front-end_web_developer)
 * [W3school HTML教程](https://www.w3school.com.cn/html/index.asp)
+* [https://html.spec.whatwg.org - Element content categories](https://html.spec.whatwg.org/multipage/indices.html#element-content-categories)
