@@ -1,0 +1,11 @@
+:root {
+  --vp-c-brand-1: #646cff;
+  --vp-c-brand-2: #989ce9;
+}
+
+body {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url('../images/theme-bg.jpg');
+}

@@ -1,17 +1,20 @@
 import { defineConfig } from 'vitepress'
 import type { DefaultTheme } from 'vitepress'
 
+const title = '地瓜'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/site/',
-  title: '地瓜',
+  title: title,
   titleTemplate: ':title',
   description: 'Recoding something.',
   srcDir: 'src',
   appearance: false,
+
+  // https://vitepress.dev/zh/reference/default-theme-config
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    siteTitle: '地瓜',
+    siteTitle: title,
     search: {
       provider: 'local',
     },

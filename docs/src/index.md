@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "95cc"
-  text: "Recoding something."
-  tagline: 
+  name: '地瓜'
+  text: '这里是地瓜的世界。'
+  tagline:
   actions:
     - theme: brand
       text: Go Reading
@@ -13,7 +13,6 @@ hero:
   #   - theme: alt
   #     text: API Examples
   #     link: /api-examples
-
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -22,4 +21,3 @@ hero:
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
