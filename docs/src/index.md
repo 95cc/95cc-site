@@ -8,7 +8,7 @@ hero:
   tagline:
   actions:
     - theme: brand
-      text: Go Reading
+      text: 开始读吧.
       link: /readings/
   #   - theme: alt
   #     text: API Examples
