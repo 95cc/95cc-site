@@ -90,7 +90,8 @@ function sidebarBlogs() {
 
 function navigations() {
   return [
-    { text: '公众号阅读', link: '/wxarticles/' },
+    { text: '读墨问', link: '/mowen/', activeMatch: '/mowen' },
+    { text: '公众号阅读', link: '/wxarticles/', activeMatch: '/wxarticles' },
     { text: '读书', link: '/readings/', activeMatch: '/readings' },
     { text: '学极客时间', link: '/geektimes/', activeMatch: '/geektimes' },
     { text: '看文章', link: '/articles/', activeMatch: '/articles' },
