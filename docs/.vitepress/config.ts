@@ -90,6 +90,7 @@ function sidebarBlogs() {
 
 function navigations() {
   return [
+    { text: '前端', link: '/frontend/', activeMatch: '/frontend' },
     { text: '读墨问', link: '/mowen/', activeMatch: '/mowen' },
     { text: '公众号阅读', link: '/wxarticles/', activeMatch: '/wxarticles' },
     { text: '读书', link: '/readings/', activeMatch: '/readings' },
